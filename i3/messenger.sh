@@ -1,0 +1,1 @@
+exec google-chrome-stable --app=https://www.messenger.com/

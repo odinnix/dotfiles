@@ -1,0 +1,4 @@
+set $dpleft "eDP-1-1"
+set $dpm "eDP-1-1"
+set $dpr "eDP-1-1"
+exec xrandr --dpi 144
